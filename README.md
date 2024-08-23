@@ -29,6 +29,40 @@ Please refer to [Jupyter Notebook](aml-pipelines-with-automated-machine-learning
 ## Key Steps
 Here are screenshots of key steps in this pipeline development.
 
+Step 1 : create dataset
+
+![Step 1](screenshots/data_1.png)
+
+
+Step 2 : create cluster
+
+![Step 2](screenshots/cluster_4.png)
+
+Step 3 : create experiment and run
+
+![Step 3.1](screenshots/experiment_complete_2.png)
+
+![Step 3.2](screenshots/experiment_complete_3.png)
+
+Step 4: Choose best model 
+
+![Step 4.1](screenshots/notebook_16.png)
+
+![Step 4.2](screenshots/notebook_16.png)
+
+Step 5: Deploy & Endpoint creation
+
+![Step 5](screenshots/experiment_complete_6.png)
+
+
+Step 6 : Enable Logging
+
+
+Step 7 : Swagger Documentation
+
+
+Step 8 : Test using RestAPI
+
 ## Screen Recording
 Here is demo video
 
