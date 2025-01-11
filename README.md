@@ -1,4 +1,4 @@
-## TITLE
+## Assignment 2
 
 This is a Azure ML udacity nano Degree Project for deploying end to end MLOPS solution of model trainied on [bankmarketing dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv)
 
@@ -60,11 +60,30 @@ Step 6 : Enable Logging
 
 Step 7 : Swagger Documentation
 
+![Step 7](screenshots/swagger.png)
+
 
 Step 8 : Test using RestAPI
 
+![Step 8.1](screenshots/endpoints_1.png)
+![Step 8.2](screenshots/endpoints_2.png)
+
+![Step 8.3](screenshots/testing_2.png)
+
+![Step 8.4](screenshots/testing_3.png)
+
+![Step 8.5](screenshots/swagger.png)
+
+![Step 8.6](screenshots/testing_4.png)
+
+* Note all screenshots are taken in 2 sessions, ids might be different..
 ## Screen Recording
-Here is demo video
+Here is demo video (screenshots/Azure_AI_ Machine_Learning_Studio_Assignment2.mp4)
+
+<video width="640" height="360" controls>
+  <source src="screenshots/Azure_AI_ Machine_Learning_Studio_Assignment2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Future improvements
 Here are some future improvement points we might consider

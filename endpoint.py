@@ -2,10 +2,11 @@ import requests
 import json
 
 # URL for the web service, should be similar to:
-# 'http://8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io/score'
-scoring_uri = ''
+#https://southcentralus.api.azureml.ms/pipelines/v1.0/subscriptions/a24a24d5-8d87-4c8a-99b6-91ed2d2df51f/resourceGroups/aml-quickstarts-271352/providers/Microsoft.MachineLearningServices/workspaces/quick-starts-ws-271352/PipelineRuns/PipelineSubmit/579bba1b-6dfa-4806-8a5c-fc0f6d3186e4
+
+scoring_uri = 'http://84868845-507b-4313-89af-f7145bad36e5_52.eastus.azurecontainer.io/score'
 # If the service is authenticated, set the key or token
-key = ''
+key = 'vXqpRtycR8oFVGCEuQWb6k15YYCrp14qH'
 
 # Two sets of data to score, so we get two results back
 data = {"data":
